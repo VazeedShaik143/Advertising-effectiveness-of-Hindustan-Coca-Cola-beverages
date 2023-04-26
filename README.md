@@ -12,7 +12,7 @@ I did this Project in my MBA, where I measure the Advertising Effectiveness of H
 ```
 3. Data analysis and Data interpretation
  ```
-  Here I analyzed the Data which collected from respondents, **used simple percentage method and Chi-squre to analyze the data**.
+  Here I analyzed the Data which collected from respondents, ***used simple percentage method and Chi-squre to analyze the data.***
 ```
 4. Findings, suggestions and conclusion.
 
